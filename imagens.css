@@ -1,0 +1,33 @@
+/* IMAGENS: para trocar uma foto, salve seu arquivo em images/NOME.jpg (ele tem prioridade).
+   Ordem de cada imagem: 1) images/NOME.jpg  2) foto da internet  3) images/NOME.svg (reserva) */
+.ph-cozyroom{background-image:url(images/cozyroom.jpg),url(https://loremflickr.com/1600/700/living,room?lock=1),url(images/cozyroom.svg)}
+.ph-campus{background-image:url(images/campus.jpg),url(https://loremflickr.com/1600/700/university,campus?lock=2),url(images/campus.svg)}
+.ph-plantdesk{background-image:url(images/plantdesk.jpg),url(https://loremflickr.com/1600/700/desk,plants?lock=3),url(images/plantdesk.svg)}
+.ph-library{background-image:url(images/library.jpg),url(https://loremflickr.com/1600/700/library,books?lock=4),url(images/library.svg)}
+.ph-cork{background-image:url(images/cork.jpg),url(https://loremflickr.com/1600/700/corkboard?lock=5),url(images/cork.svg)}
+.ph-deskwood{background-image:url(images/deskwood.jpg),url(https://loremflickr.com/1600/700/reception,desk?lock=6),url(images/deskwood.svg)}
+.ph-officewood{background-image:url(images/officewood.jpg),url(https://loremflickr.com/1600/700/office,desk?lock=7),url(images/officewood.svg)}
+.ph-portrait{background-image:url(images/portrait.jpg),url(https://loremflickr.com/300/400/woman,portrait?lock=8),url(images/portrait.svg)}
+.ph-archive{background-image:url(images/archive.jpg),url(https://loremflickr.com/1600/700/archive,folders?lock=9),url(images/archive.svg)}
+.ph-mailbox{background-image:url(images/mailbox.jpg),url(https://loremflickr.com/1600/700/mailbox,letters?lock=10),url(images/mailbox.svg)}
+.ph-mapdesk{background-image:url(images/mapdesk.jpg),url(https://loremflickr.com/1600/700/map,travel?lock=11),url(images/mapdesk.svg)}
+.ph-coffeetable{background-image:url(images/coffeetable.jpg),url(https://loremflickr.com/1600/700/coffee,table?lock=12),url(images/coffeetable.svg)}
+.ph-booksdesk{background-image:url(images/booksdesk.jpg),url(https://loremflickr.com/1600/700/books,desk?lock=13),url(images/booksdesk.svg)}
+.ph-guidebook{background-image:url(images/guidebook.jpg),url(https://loremflickr.com/1600/700/notebook,guide?lock=14),url(images/guidebook.svg)}
+.ph-corkboard{background-image:url(images/corkboard.jpg),url(https://loremflickr.com/1600/700/notes,board?lock=15),url(images/corkboard.svg)}
+.ph-workshop{background-image:url(images/workshop.jpg),url(https://loremflickr.com/1600/700/workshop,tools?lock=16),url(images/workshop.svg)}
+.ph-login{background-image:url(images/login.jpg),url(images/cozyroom.svg)}
+.ph-identificacao{background-image:url(images/identificacao.jpg),url(images/login.jpg),url(images/cozyroom.svg)}
+.ph-cidadao{background-image:url(images/cidadao.jpg),url(images/cozyroom.svg)}
+.ph-empresa{background-image:url(images/empresa.jpg),url(images/cozyroom.svg)}
+.ph-governo{background-image:url(images/governo.jpg),url(images/cozyroom.svg)}
+.ph-admin{background-image:url(images/admin.jpg),url(images/cozyroom.svg)}
+.ph-publicacoes{background-image:url(images/publicacoes.jpg),url(images/cozyroom.svg)}
+.ph-enquetes{background-image:url(images/enquetes.jpg),url(images/cozyroom.svg)}
+.ph-oportunidades{background-image:url(images/oportunidades.jpg),url(images/cozyroom.svg)}
+.ph-casos{background-image:url(images/casos.jpg),url(images/cozyroom.svg)}
+.ph-relatorios{background-image:url(images/relatorios.jpg),url(images/cozyroom.svg)}
+.ph-usuarios{background-image:url(images/usuarios.jpg),url(images/cozyroom.svg)}
+.ph-moderacao{background-image:url(images/moderacao.jpg),url(images/cozyroom.svg)}
+.ph-permissoes{background-image:url(images/permissoes.jpg),url(images/cozyroom.svg)}
+.ph-conteudos{background-image:url(images/conteudos.jpg),url(images/cozyroom.svg)}
